@@ -9,10 +9,33 @@ I designed a refined and visually elegant email template for *Studio Ciel Rose*,
 ## Key Highlights:  
 - **Visually Appealing**: Soft pink gradients, elegant serif typography, and minimal iconography to enhance readability while reflecting the brand’s identity.  
 - **Easy to Use**: Clear content blocks for offers, service highlights, and call-to-action buttons, allowing effortless customization.  
-- **Responsive Design**: Optimized for desktops, laptops, tablets, and smartphones to ensure the email looks polished on all devices.  
+- **Responsive Design**: Optimized for desktops, laptops, tablets, and smartphones to ensure the email looks polished on all devices. 
+
+## Tools Used
+
+- **Figma** – For wireframing, UI design, prototyping, and responsive layouts  
+- **Markdown** – For documentation and task summaries  
+ 
 
 ## Design Focus:  
 The template focuses on a **refined, user-friendly layout** that balances beauty with function. White space, consistent color accents, and strong visual hierarchy guide the reader’s eye through the content. The intention was to design an email that feels luxurious yet accessible — encouraging higher engagement and conversions.
+
+--- 
+
+
+## ≽₍^_ ‸ _^₎≼⟆ Designer
+
+**Mahi Karna R**
+- Email: mahikarna.r@gmail.com
+- Role: UI/UX Intern
+- Check out my other projects and connect with me on [Linkedin!](https://www.linkedin.com/in/mahi-karna-r-801b21298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+────୨ৎ────
+
+**This repository serves as my official submission of task 02 for the UI/UX internship at CodSoft.**
+
+**Hashtags included in my LinkedIn post submissions:**  
+`#codsoft #internship #uiuxdesign #figma #emailtemplate #emailmarketing`
 
 
 
