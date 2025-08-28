@@ -28,7 +28,7 @@ The template focuses on a **refined, user-friendly layout** that balances beauty
 **Mahi Karna R**
 - Email: mahikarna.r@gmail.com
 - Role: UI/UX Intern
-- Check out my other projects and connect with me on [Linkedin!](https://www.linkedin.com/in/mahi-karna-r-801b21298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Check out my other projects and connect with me on [Linkedin!](https://www.linkedin.com/in/mahikarnar)
 
 ────୨ৎ────
 
